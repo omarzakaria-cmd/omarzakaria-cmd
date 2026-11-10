@@ -9,7 +9,13 @@ my first software development internship or junior role.
 - Developing my programming and problem-solving skills
 
 ## Projects
-I'll share my projects here as I build them.
+### [DocScout](https://github.com/omarzakaria-cmd/docscout)
+A document search application built with Python, Flask, and SQLite.
+
+- Searches text files and PDFs with line and page references.
+- Uses SQLite full-text indexing and relevance ranking.
+- Highlights matching text in browser results.
+- Includes 25 automated tests and GitHub Actions.
 
 ## Opportunities
 I'm interested in software development internships
